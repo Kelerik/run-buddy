@@ -143,7 +143,7 @@ section {
 
 .steps {
     text-align: center;
-    background-color: #fce138;
+    background: #fce138;
 }
 
 .steps div {
@@ -152,7 +152,7 @@ section {
 
 .steps img {
     width: 15%;
-    margin: 10px 0
+    margin: 10px 0;
 }
 
 .steps h3 {
@@ -175,8 +175,8 @@ section {
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
+    display: inline-block;
     border-bottom: 3px solid;
-    border-color: #39a6b2;
 }
 
 .primary-border {
