@@ -144,7 +144,7 @@ section {
 }
 
 .hero-form {
-    border: 3px solidvar(--secondary-color);
+    border: 3px solid var(--secondary-color);
     background-color: rgba(255, 225, 56, 0.8);
     padding: 20px;
     color: var(--secondary-color);
@@ -186,7 +186,7 @@ section {
     height: 20px;
     width: 20px;
     background: rgba(255, 255, 255, 0.75);
-    border: 1px solidvar(--secondary-color);
+    border: 1px solid var(--secondary-color);
     position: absolute;
     top: -4px;
     left: -30px;
@@ -212,8 +212,8 @@ section {
     content: "";
     height: 6px;
     width: 14px;
-    border-left: 2px solidvar(--secondary-color);
-    border-bottom: 2px solidvar(--secondary-color);
+    border-left: 2px solid var(--secondary-color);
+    border-bottom: 2px solid var(--secondary-color);
     position: absolute;
     left: -26px;
     top: 1px;
@@ -231,7 +231,7 @@ section {
 }
 
 .form-input {
-    border: 1px solidvar(--secondary-color);
+    border: 1px solid var(--secondary-color);
     display: block;
     padding: 7px 15px;
     font-size: 16px;
@@ -313,7 +313,7 @@ section {
     margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
-    border-bottom: 1px solidvar(--tertiary-color);
+    border-bottom: 1px solid var(--tertiary-color);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -453,7 +453,7 @@ section {
 
 .contact-form input,
 .contact-form textarea {
-    border: 1px solidvar(--secondary-color);
+    border: 1px solid var(--secondary-color);
     display: block;
     padding: 7px 15px;
     font-size: 16px;
